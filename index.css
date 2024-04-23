@@ -1,0 +1,501 @@
+body{
+    background-image: url(gym.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    padding: 0%;
+    margin: 0%;
+}
+.main_nav
+{
+    display:inline;
+}
+#gy
+{   
+    color:red;
+    font-size: 20px;
+    margin-top: 2px;
+}
+
+li
+{
+    display: inline;
+    color: white;
+    padding: 1%;
+}
+.sub1_nav
+{
+    font-size:xx-large;
+   height: 50px;
+    background-color: black;
+    width: 100%;
+}
+.sub1_nav span{
+    margin-left: 5%;
+}
+.sub_nav
+{
+    margin-left: 60%;
+    margin-top: -53px;
+}
+#h-1
+{
+    color: white;
+    font-weight: bold;
+    margin-right: 100px;
+    text-align: center;
+    margin-top: 25%;
+    font-size: 70px;
+}
+#h-2
+{
+    color: white;
+    font-weight: bold;
+    margin-right: 100px;
+    text-align: center;
+    margin-top: 25px;
+    font-size: 65px;
+}
+#h_3
+{
+    color: rgb(255, 0, 0);
+    font-weight: bold;
+    margin-right: 100px;
+    text-align: center;
+    margin-top: 25px;
+    font-size: 65px;
+ 
+}
+#btn_join,#btn_contact
+{
+    background-color:orangered;
+    color: white;
+    width: 100px;
+    height: 40px;
+    border-radius: 20px;
+    font-size: large;
+    border: 1px solid orangered;
+}
+.btn_head
+{
+    margin-left: 39%;
+    display: flex;
+    gap: 30px;
+}
+.main_about
+{
+    background-color: rgb(255, 255, 255);
+    margin-top: 15%;
+    display: flex;
+    gap: 40px;
+    color: rgb(0, 0, 0);
+    
+}
+
+#about_txt
+{
+    color: red;
+    font-size: 40px;
+}
+#wel_about_txt
+{
+    color: white;
+    font-weight: bolder;
+    font-size: xx-large;
+}
+
+#txt1_about,#txt2_about,#txt3_about
+{
+    font-size: 30px;
+}
+.wo_us
+{
+    font-size: 20px;
+    color: rgb(0, 0, 0);
+    margin-left: 600px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 10px;
+    width: 250px;
+    transform: translateY(40px);
+}
+.wo_us1
+{
+    background-color: rgb(255, 255, 255);
+    margin-top: -30px;
+}
+.img_flex
+{
+    display: flex;
+    gap:50px;
+    justify-content: center;
+}
+.team_main
+{
+    background-color: rgb(255, 255, 255);
+    margin-top: -20px;
+}
+#te
+{
+    margin-left:0%;
+}
+
+.team_1
+{
+    color: orangered;
+    width: 900px;
+    height: 300px;
+    width: 100%;
+    text-align: center;
+    
+}
+.team_2
+{
+    color: rgb(0, 0, 0);
+    margin-top: -250px;
+    text-align: center;
+    width: 100%;
+}
+
+.img_trainer
+{
+    display: flex;
+    gap: 50px;
+    justify-content: center;
+}
+.main_txt_trainer
+{
+    color: rgb(0, 0, 0);
+    background-color: rgba(255, 255, 255, 0.585);
+    transform: translateY(-100px);
+    height: 100px;
+    text-align: center;
+}
+.main_foot
+{
+    background-color: rgb(15, 15, 15);
+    height: 400px;
+}
+.sub_foot
+{
+    display: flex;
+    gap:15%;
+    color:white;
+    justify-content: center;
+    transform: translateY(60px);
+    text-align: center;
+    font-size: large;
+    text-shadow: 2px 2px 5px black;
+}
+.sub1_nav1
+{
+    font-size: 30px;
+    letter-spacing:5px;
+}
+
+#link_foot
+{
+    font-size: 20px;
+    color: red;
+}
+#m1
+{
+    color: red;
+
+}
+.foot_2
+{
+    text-align: left;
+    font-size: large;
+}
+#main_about
+{
+    background-color: rgb(255, 255, 255);
+    margin-top: 20%;
+    display: flex;
+    gap: 40px;
+    color: rgb(0, 0, 0);
+    
+}
+.main_s{
+    background-color: rgb(255, 255, 255);
+    text-align: center;height: 400px;
+    margin-top: 22%;
+}
+
+.sub_s{
+    color: rgb(0, 0, 0);
+}
+.sub1_sers
+{
+    display: flex;
+    gap: 10%;
+    color: rgb(0, 0, 0);
+    justify-content: center;
+    text-align: center;
+}
+#colo_1
+{
+    color: orangered;
+}
+.main_serv
+{
+    display: flex;
+    gap:30px;
+    justify-content: center;
+    color: black;
+    width: 1100px;
+    margin-left: 15%;
+}
+
+.sub_ser
+{
+    background-color: #a6a6a6;
+    width: 300px;
+    height: 500px;
+    text-align: center;
+    
+}
+
+#txt_serv
+{
+    font-size: x-large;
+}
+.offer{
+    margin-top: 00px;
+    background-color: #ffffff;
+}
+
+#img_arr
+{
+    transform: translateY(10px);
+}
+
+.offer
+{
+    background-color: #ffffff;
+    color:rgb(0, 0, 0);
+    height: 700px;
+
+}
+#read
+{
+    color: orangered;
+}
+.sub_offer_get
+{
+    text-align: center;
+}
+#btn_member
+{
+    background-color: orangered;
+    color: white;
+    border: 2px solid orangered;
+    height: 40px;
+    width: 180px;
+    border-radius: 40px;
+}
+.con_main
+{
+    background-color: rgb(255, 255, 255);
+    width: 1520px;
+    height: 900px;
+    margin-top: 400px;
+}
+.cont_1
+{
+    color: rgb(0, 0, 0);
+    margin-top: -800px;
+    margin-left: 120px;
+    color: orangered;
+}
+.cont_1_2
+{
+    color: rgb(0, 0, 0);
+    margin-top: -1200px;
+}
+.num_1
+{
+    margin-left: 90px;
+}
+.num_1
+{
+    display: flex;
+}
+#sub_frm_1
+{
+    width: 100px;
+    height: 100px;
+}
+.num_1_1
+{
+    display: flex;
+    gap: 50PX;
+    margin-left: 150PX;
+}
+.cont_1_1
+{
+    margin-left: 500PX;
+    margin-bottom: 10%;
+    color: orangered;
+}
+.fo_1
+{
+    margin-left: 600px;     
+
+}
+#btn_send
+{
+    background-color: orangered;
+    color: white;
+    border: 1px solid orangered;
+    width: 355px;
+    height: 30px;
+    
+}
+#na_1
+{
+    width: 350px;
+    height: 30px;
+}
+#na_2
+{
+    width: 350px;
+    height: 100px;
+}
+.main_foot_1
+{
+    background-color: rgb(15, 15, 15);
+    height: 400px;
+    margin-top: -25px;
+}
+.reg_1
+{
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    height: 9%;
+    margin-top: 300px;
+}
+.reg_1_1
+{
+    margin-left: 620px;
+}
+.ig_1_1
+{
+    margin-left: -600px;    
+}
+.usr_1{
+    margin-left: 700px;
+    margin-top: -500px;
+}
+#ml_1
+{
+    color: rgb(0, 0, 0);
+}
+.main_plan_card
+{
+    background-color: rgb(255, 228, 228);
+    color: white;
+    text-align: center;
+    margin-top: -23px;
+    height: 700px;
+}
+.ji_1
+{
+    background-color: white;
+    margin-top: 400px;
+    height: 700px;
+}
+#our_plan
+{
+    color: orangered;
+    margin-left: 650px;
+}
+.sub_card_plan
+{
+    display: flex;
+    gap: 70px;
+    justify-content: center;
+}
+.plan_1
+{
+    background-color: #222222;
+    height: 430px;
+    width: 300px;
+    font-size: large;
+    margin-left: 100px;
+    color: white;
+}
+#plan_a ul li
+{
+    display: list-item;
+    text-align: left;
+}
+#price_pan
+{
+    color: orangered;
+    margin-left: 100px;
+}
+#buy
+{
+    background-color: orangered;
+    color: white;
+    height: 30px;
+    width: 70px;
+    border: 1px solid orangered;
+    border-radius: 30px;
+    margin-left: 100px;
+}
+.class_1
+{
+    font-size: 20px;
+    color: white;
+    margin-left: 659px;
+    background-color: orangered;
+    border-radius: 10px;
+    width: 220px;
+    transform: translateY(40px);
+}
+.team_main_1
+{
+    background-color: rgb(255, 255, 255);
+    margin-top: 300px;
+
+}
+.team_1_1
+{
+    color: orangered;
+    width: 900px;
+    height: 300px;
+    width: 100%;
+    text-align: center;
+    
+}
+.team_2_1
+{
+    color: rgb(0, 0, 0);
+    margin-top: -250px;
+    text-align: center;
+    width: 100%;
+}
+.uu_1
+{
+    margin-top: 700px;
+    margin-left: -1358px;
+}
+.hy_1
+{
+    color: rgb(0, 0, 0);
+    background-color: black;
+    margin-top: -100px;
+    margin-left: 600px;
+    width: 900px;
+}
+.team_2_2
+{
+    background-color: black;
+    color: white;
+    text-align: center;
+    height: 1500px;
+    margin-top: -30px;
+}
+
